@@ -1,3 +1,4 @@
+
 class Bird {
   constructor(x, y, width, height, xVelocity, yVelocity, gravity) {
     this.x = x
